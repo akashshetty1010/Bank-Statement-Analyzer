@@ -1,0 +1,3 @@
+level_1,category,keywords,confidence
+DEBIT,EDUCATION,tuition|school|college|education,0.95
+CREDIT,SALARY,salary|payroll|wages,0.99
