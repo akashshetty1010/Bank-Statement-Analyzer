@@ -678,8 +678,17 @@ The following assumptions are part of the current implementation:
 - [ ] README.md is available with setup, processing, risk and assumption details
 
 ---
+## 15. Future Improvements
 
-## 15. Useful commands at a glance
+   - Support more varied statement layouts, including pages with embedded images or random formatting.
+   - Upgrade the UI with Next.js, Tailwind CSS for a more polished experience.
+   - Refactor into a scalable FastAPI + PostgreSQL + Redis + Celery for a strong BE architecture.
+   - Improve extraction from low-quality, rotated and complex scanned statements.
+   - Expand classification and counterparty detection for unfamiliar narrations.
+   - Add more risk metrics and configurable scoring rules.
+
+---
+## 16. Useful commands at a glance
 
 Start backend:
 
