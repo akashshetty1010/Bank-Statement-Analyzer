@@ -6,6 +6,10 @@ Bank Statement Analyzer is a lightweight local Proof of Concept (PoC) for extrac
 
 The project is deliberately small and local. It demonstrates a complete path from a bank statement file to structured transactions, transaction classification, review flags and an explainable credit-risk summary without introducing a separate frontend build system or production infrastructure.
 
+## Visual Guide
+
+[View the Bank Statement Analyzer Visual Guide](Bank_Statement_Analyzer_Visual_Guide.pdf)
+
 ---
 
 ## 2. Prerequisites
